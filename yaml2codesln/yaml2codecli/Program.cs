@@ -6,7 +6,7 @@ namespace yaml2codecli
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
