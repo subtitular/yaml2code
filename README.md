@@ -24,7 +24,10 @@ Primitive: Id
     Name: Id
     FormatString: MaxLength=64,Unsigned
     DataType: Int
--- TipoDocumento
-ObjectType: TipoDocumento
-    Id,Nombre,TieneVencimiento
+name: TipoDocumento
+fields:
+- Id
+- Name
+- HasExpirationDate
+inheritsFrom:
 
