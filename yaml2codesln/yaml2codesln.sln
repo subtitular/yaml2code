@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yaml2code", "yaml2code\yaml2code.csproj", "{64198250-9054-49C6-8097-934C9150F52A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yaml2codecli", "yaml2codecli\yaml2codecli.csproj", "{612AD70B-3CFE-402B-9256-0457F41FB087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64198250-9054-49C6-8097-934C9150F52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64198250-9054-49C6-8097-934C9150F52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64198250-9054-49C6-8097-934C9150F52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64198250-9054-49C6-8097-934C9150F52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612AD70B-3CFE-402B-9256-0457F41FB087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612AD70B-3CFE-402B-9256-0457F41FB087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612AD70B-3CFE-402B-9256-0457F41FB087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612AD70B-3CFE-402B-9256-0457F41FB087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDCEBA36-46FB-42B6-BE66-209128CDF002}
+	EndGlobalSection
+EndGlobal
